@@ -1,0 +1,3 @@
+﻿  Screens.cpp
+D:\CC++\Banking System\Banking System\Banking System\Screens.cpp(56,1): warning C4715: 'Screens::loginAs': not all control paths return a value
+  Banking System.vcxproj -> D:\CC++\Banking System\Banking System\x64\Debug\Banking System.exe
